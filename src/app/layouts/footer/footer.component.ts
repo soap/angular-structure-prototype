@@ -1,6 +1,6 @@
 import { Component, EventEmitter, OnInit, Output } from '@angular/core';
 import { environment as env } from '@env/environment';
-import { Observable } from 'rxjs/Observable';
+import { Observable } from 'rxjs';
 import { ThemeService } from '@app/core';
 
 @Component({
