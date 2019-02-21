@@ -1,7 +1,5 @@
 # Highly Scalable Angular Folder Structure
-The project is inspired by an article I wrote on Medium called [How to define a highly scalable folder structure for your Angular project](https://itnext.io/choosing-a-highly-scalable-folder-structure-in-angular-d987de65ec7). The project is based on best practices from the community, other github Angular projects and my own experiences from working on several Angular projects. 
-
-![login screen screenshot](https://i.imgur.com/J1B3I02.jpg)
+The project is inspired by an article wrote by [Mathias Garberg](https://itnext.io/@mathis.garberg) on Medium called [How to define a highly scalable folder structure for your Angular project](https://itnext.io/choosing-a-highly-scalable-folder-structure-in-angular-d987de65ec7). The project is based on best practices from the community, other github Angular projects and my own experiences from working on several Angular projects. 
 
 ## Prerequisites
 Before serving the project, you need to have Node version 8.9 and npm 5.5.1 or higher on your system. You can download the latest version of Node for your operating system on [Node's official site](https://nodejs.org/en/).
@@ -17,7 +15,7 @@ Once you have Node installed, you can use the `npm` command to install TypeScrip
 ````
 $ npm install -g typescript
 ````
-You don’t technically need TypeScript, but it’s highly recommended by the Angular team, so I recommend you install it to make working with Angular as comfortable as possible.
+You don�t technically need TypeScript, but it�s highly recommended by the Angular team, so I recommend you install it to make working with Angular as comfortable as possible.
 
 Now that you have Node, npm and TypeScript installed, you can install the angular cli by running:
 
