@@ -1,5 +1,5 @@
 # Highly Scalable Angular Folder Structure
-The project is inspired by an article wrote by [Mathias Garberg](https://itnext.io/@mathis.garberg) on Medium called [How to define a highly scalable folder structure for your Angular project](https://itnext.io/choosing-a-highly-scalable-folder-structure-in-angular-d987de65ec7). The project is based on best practices from the community, other github Angular projects and my own experiences from working on several Angular projects. 
+The project is inspired by an article wrote by [Mathias Garberg](https://itnext.io/@mathis.garberg) on Medium called [How to define a highly scalable folder structure for your Angular project](https://itnext.io/choosing-a-highly-scalable-folder-structure-in-angular-d987de65ec7). The project is based on best practices from the community, other github Angular projects and Mathias' own experiences from working on several Angular projects. The initial code base belongs to Mathias and team mate, I just add some specific requirements to the project. 
 
 ## Prerequisites
 Before serving the project, you need to have Node version 8.9 and npm 5.5.1 or higher on your system. You can download the latest version of Node for your operating system on [Node's official site](https://nodejs.org/en/).
